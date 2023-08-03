@@ -16,7 +16,7 @@
 
 }
  .child{
-    margin-top: 50px ;
+    margin-top: 20px ;
    background-color: #2b06bf
 }
 .para{
@@ -29,7 +29,7 @@
     justify-content: center;
 }
 .child2{
-    margin-top: 50px;
+    margin-top: 20px;
     background-color: #2b06bf;
 }
 
@@ -55,10 +55,10 @@
     position: absolute;
 }
 .container3{
-    width: 759px;
+    width: 601px;
     position: absolute;
-    top: 561px;
-    left: 1160px;
+    top: 425px;
+    left: 935px;
 
 } 
 
